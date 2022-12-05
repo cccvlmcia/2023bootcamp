@@ -1,0 +1,7 @@
+[
+  { "name": "하윤", "gender": "female", "age": 23, "birth": "2000-3-25" },
+  { "name": "예준", "gender": "male", "age": 24, "birth": "1999-4-4" },
+  { "name": "도윤", "gender": "female", "age": 22, "birth": "2001-5-12" },
+  { "name": "민준", "gender": "male", "age": 24, "birth": "1999-4-14" },
+  { "name": "서준", "gender": "male", "age": 23, "birth": "2000-10-27" }
+]
